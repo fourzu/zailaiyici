@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
         Log.e("messege","lihaoyu");
         Log.e("messege","nakj");
+        Log.e("messss","敲就玩了");
     }
 }
